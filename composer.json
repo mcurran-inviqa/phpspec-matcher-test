@@ -1,0 +1,11 @@
+{
+  "require": {
+    "bossa/phpspec2-expect": "dev-feature/phpspec-3"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:mcurran-inviqa/phpspec2-expect.git"
+    }
+  ]
+}
